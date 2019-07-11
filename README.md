@@ -1,2 +1,2 @@
 # ToDo_List
-make or delete a list on your own
+Construct and modify a list on your own
